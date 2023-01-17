@@ -1,3 +1,4 @@
+//Print a pattern Z
 #include<iostream>
 using namespace std;
 main()
